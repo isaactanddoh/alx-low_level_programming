@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet - Check description
- * Description: This function prints alphabet in lower case followed by a new line
+ * Descr: prints alphabet in lower case followed by a new line
  * Return: Nothing.
  */
 
