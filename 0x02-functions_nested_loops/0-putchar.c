@@ -3,7 +3,8 @@
 
 /**
  * main - Entry point
- * Prints _putchar
+ * 
+ * Description: Prints _putchar
  *
  * Return: Always 0 (Success)
  */
@@ -18,4 +19,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-}	
+}
