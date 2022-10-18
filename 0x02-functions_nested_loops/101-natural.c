@@ -1,7 +1,7 @@
-i#include <stdio.h>
+#include <stdio.h>
 
 /**
- * main - prints all sums kf multiple 3 and 5
+ * main - prints all sums of multiple 3 and 5
  * At this point I was getting exhausted lol
  * Return: Always (Success)
  */
